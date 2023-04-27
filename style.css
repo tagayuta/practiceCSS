@@ -1,0 +1,12 @@
+/* h1 {
+    color: blue;
+} */
+
+h1, p{
+    background-color: #f39177;
+    color: #f00;  
+}
+
+ul {
+    background-color: #0f0;
+}
